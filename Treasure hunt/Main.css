@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  display: grid;
+}
+
+.canvas {
+  width: auto;
+  height: 100%;
+  place-self: center;
+}
